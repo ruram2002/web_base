@@ -1,0 +1,10 @@
+.text-dark-grey {
+  color: rgb(3, 13, 70);
+}
+.font-bold {
+  font-weight: 900;
+}
+.key {
+  font-weight: 600;
+  color: rgb(65, 64, 64);
+}
