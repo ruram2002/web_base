@@ -1,10 +1,24 @@
 .text-dark-grey {
   color: rgb(3, 13, 70);
 }
+
 .font-bold {
   font-weight: 900;
 }
+
 .key {
   font-weight: 600;
   color: rgb(65, 64, 64);
+}
+
+.font-bold.text-dark-grey.papaya {
+  color: orangered;
+  font-size: 150px;
+}
+
+.font-bold,
+.text-dark-grey,
+.papaya {
+  color: indigo;
+  font-size: 25px;
 }
