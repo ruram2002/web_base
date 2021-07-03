@@ -1,5 +1,5 @@
 .text-dark-grey {
-  color: rgb(3, 13, 70);
+  color: rgb(0, 13, 82);
 }
 
 .font-bold {
@@ -21,4 +21,40 @@
 .papaya {
   color: indigo;
   font-size: 25px;
+}
+.centered_text_h1 {
+  margin: 50px;
+  border: 40px;
+  padding: 90px;
+  content: normal;
+}
+.centered_text_h2 {
+  margin: 50px;
+  border: 40px;
+  padding: 90px;
+  content: normal;
+}
+.centered_text_h3 {
+  margin: 50px;
+  border: 40px;
+  padding: 90px;
+  content: normal;
+}
+.centered_text_h4 {
+  margin: 50px;
+  border: 40px;
+  padding: 90px;
+  content: normal;
+}
+.p_changes {
+  margin: 50px;
+  border: 40px;
+  padding: 90px;
+  content: normal;
+}
+.span_changes {
+  margin: 50px;
+  border: 40px;
+  padding: 90px;
+  content: 20pxs;
 }
