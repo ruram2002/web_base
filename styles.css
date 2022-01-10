@@ -6,6 +6,8 @@
 }
 .header__title {
   display: inline-block;
+  font-size: 40px;
+  font: italic;
 }
 .header__nav {
   float: right;
@@ -51,4 +53,31 @@ body {
 .second-nav__nav-item {
   list-style: none;
   padding-bottom: 16px;
+}
+.photo-box {
+  width: 100%;
+  height: 500px;
+  margin-bottom: 1rem;
+}
+.dropdown-button {
+  background-color: whitesmoke;
+  padding: 1.5rem;
+  color: lightgrey black;
+  border: transparent 2px beige;
+  border-radius: 0;
+}
+.dropdown-button:hover {
+  background-color: rgb(211, 205, 205);
+}
+.navbar-brand:hover {
+  font: bold;
+  font-size: initial;
+  font-size: 30px;
+}
+.btn-light:hover {
+  font: bold;
+  font-size: 20px;
+}
+.title {
+  color: black;
 }
