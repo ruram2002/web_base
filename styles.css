@@ -62,11 +62,12 @@ body {
 .dropdown-button {
   background-color: whitesmoke;
   padding: 1.5rem;
-  color: lightgrey black;
+  color: black;
   border: transparent 2px beige;
   border-radius: 0;
 }
 .dropdown-button:hover {
+  color: black;
   background-color: rgb(211, 205, 205);
 }
 .navbar-brand:hover {
